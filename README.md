@@ -91,5 +91,4 @@ This the first release, for now it installs schemacrawler.
 ## TODO
 
 * Make staging and install dir as parameters.
-* Put http-proxy so install can be done behind corporate proxy
 
