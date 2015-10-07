@@ -77,7 +77,7 @@ If you are behind a corporate proxy, use the following code :
 
 ## Limitations
 
-For now, this module **does not* work on Windows systems.
+For now, this module **does not** work on Windows systems.
 
 ## Development
 
