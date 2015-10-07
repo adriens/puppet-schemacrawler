@@ -1,0 +1,17 @@
+{
+  "name": "puppet-schemacrawler",
+  "version": "0.1.0",
+  "author": "adriens",
+  "summary": "Manages schemacrawler",
+  "license": "Apache 2.0",
+  "source": "github.com/puppet-schemacrawler",
+  "project_page": "https://github.com/puppet-schemacrawler",
+  "issues_url": "https://github.com/puppet-schemacrawler/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+    {"name":"nanliu-staging","version_requirement":">= 1.0.3"},
+    {"name":"puppetlabs-java","version_requirement":">= 1.4.1"},
+    {"name":"puppetlabs-apt","version_requirement":">= 2.2.0"}
+  ]
+}
+
